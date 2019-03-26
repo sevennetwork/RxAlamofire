@@ -6,6 +6,15 @@ All notable changes to this project will be documented in this file.
 ## Master
 
 #### Updated
+* Project compatible with Swift 5
+
+#### Fixed
+
+## 4.3.0
+
+#### Updated
+* Project updated to Xcode 10.0.
+* Example project now compatible with Swift 4.2.
 
 #### Fixed
 
